@@ -28,7 +28,7 @@ Backend:
 
 The login box should shake and tell the user they have entered the wrong password when they are unable to log in. Additionally, the login button should turn red.
 
-![gif goes here](https://i.pinimg.com/originals/7f/2d/c4/7f2dc4bac6cae40c4db5aaf35294c7f4.gif)
+![gif goes here](https://www.accessibility-designer-guide.com/assets/images/feedback/feedback_password.png)
 
 ### [Name of Feature 2]
 
