@@ -24,11 +24,11 @@ Backend:
 
 ## Features
 
-### [Name of Feature 1]
+### Add feedback animation when the user enters the wrong password
 
-[short description goes here]
+The login box should shake and tell the user they have entered the wrong password when they are unable to log in. Additionally, the login button should turn red.
 
-[gif goes here]
+![gif goes here](https://i.pinimg.com/originals/7f/2d/c4/7f2dc4bac6cae40c4db5aaf35294c7f4.gif)
 
 ### [Name of Feature 2]
 
